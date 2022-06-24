@@ -1,0 +1,6 @@
+[submodule "aws-cloudformation-fargate"]
+	path = aws-cloudformation-fargate
+	url = ./aws-cloudformation-fargate
+[submodule "https-github.com-awanmbandi-Docker"]
+	path = https-github.com-awanmbandi-Docker
+	url = ./https-github.com-awanmbandi-Docker
